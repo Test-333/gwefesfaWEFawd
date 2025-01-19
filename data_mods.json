@@ -1,1 +1,14 @@
-{"Reduxes": {}, "Maps": {}, "Gunpacks": {}, "Sounds": {}}
+{
+    "Reduxes": {
+        "awdawdaw": {
+            "version": "10.6",
+            "link": "https://",
+            "links_images": [],
+            "link_video": "",
+            "description": "\n"
+        }
+    },
+    "Maps": {},
+    "Gunpacks": {},
+    "Sounds": {}
+}
